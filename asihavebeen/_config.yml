@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: As I Have Been
+title: "As I Have Been : Blogs"
 subtitle: 技术学习记录
 description: 范围广泛，包括但不限于深度学习、机器人控制、SOC、量化交易
 keywords: "深度学习，机器人控制，SOC，量化交易，其他技术"
-author: Liu Yu
+author: 刘渝
 language: zh-CN
 # timezone: ''
 
